@@ -24,7 +24,7 @@ Hbase
 ```
 #### Cluster Configuration
 
-<img src="https://raw.githubusercontent.com/josephzxy/Real-time-Sentiment-Analysis-on-Spark/master/ClusterConfiguration.png" height="100%" width="100%">
+<img src="https://raw.githubusercontent.com/josephzxy/Near-Real-time-Sentiment-Analysis-on-Spark/master/ClusterConfiguration.png" height="100%" width="100%">
 
 The detailed steps of installing and configuring the cluster is introduced in the slides of COMP7305.
 
